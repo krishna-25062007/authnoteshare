@@ -1,0 +1,10 @@
+/README
+/README.md
+/LICENSE
+node_modules/
+.env
+.env.*
+!.env.example
+build/
+dist/
+*.log
