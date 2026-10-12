@@ -19,20 +19,6 @@ A MERN-stack web application for sharing study notes, interacting with other use
 - **Database:** MongoDB
 - **Real-Time Communication:** WebSockets
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](https://github.com/ankitkr437/NoteSharing/blob/main/frontend/public/image/home.png)
-
-### User Profile
-![User Profile](https://github.com/ankitkr437/NoteSharing/blob/main/frontend/public/image/userprofile.png)
-
-### Upload Notes
-![Upload Notes](https://github.com/ankitkr437/NoteSharing/blob/main/frontend/public/image/uploadform.png)
-
-### Chat
-![Chat](https://github.com/ankitkr437/NoteSharing/blob/main/frontend/public/image/chat.png)
-
 ## 🚀 Getting Started
 
 ### Prerequisites
